@@ -1,0 +1,134 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "men",
+            "prefix": "men",
+            "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+        },
+        {
+            "id": 2,
+            "title": "women",
+            "prefix": "women",
+            "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+        },
+        {
+            "id": 3,
+            "title": "kids",
+            "prefix": "kids",
+            "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+        },
+        {
+            "id": 4,
+            "title": "baby",
+            "prefix": "baby",
+            "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "sport",
+            "prefix": "sport",
+            "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Cotton polo shirt",
+            "price": "249.00",
+            "cat_prefix": "men",
+            "img": "https://th.bing.com/th/id/OIP.YRbzYtp2FEn76jWNGKxPoQHaKy?rs=1&pid=ImgDetMain"
+        },
+        {
+            "id": 2,
+            "title": "Regular Fit Jersey top",
+            "price": "229.00",
+            "cat_prefix": "men",
+            "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Cotton polo shirt",
+            "price": "300.00",
+            "cat_prefix": "men",
+            "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Ronaldo T-shirt",
+            "price": "500.00",
+            "cat_prefix": "men",
+            "img": "https://cyberriedstore.com/wp-content/uploads/2023/07/al-nassr-2023-24-critiano-ronaldo-home-jersey-back-number-7-printed.png"
+        },
+        {
+            "id": 5,
+            "title": "Black hoodie",
+            "price": "250.00",
+            "cat_prefix": "men",
+            "img": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/3690404_fpx.tif?$filterlrg$&wid=327"
+        },
+        {
+            "id": 6,
+            "title": "Grey hoodie",
+            "price": "200.00",
+            "cat_prefix": "men",
+            "img": "https://th.bing.com/th/id/R.67cb99041e03732c8eefc0324ae3f02b?rik=48OJ3wfsllTRuQ&riu=http%3a%2f%2fpicture-cdn.wheretoget.it%2faxgb5f-l-610x610-sweater-nike-pullover-grey-vintage-blogger-hipster.jpg&ehk=iOvBQbowAfc5iV8sJ%2fD5m%2bxxuyC64bf4BabQ9Q8v4sk%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+            "id": 7,
+            "title": "Cotton t-shirt",
+            "price": "100.00",
+            "cat_prefix": "women",
+            "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Sweatshirt shorts",
+            "price": "300.00",
+            "cat_prefix": "women",
+            "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Gray jacket",
+            "price": "600.00",
+            "cat_prefix": "women",
+            "img": "https://goodmorning1.com/wp-content/uploads/2019/12/4037-9.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Black jacket",
+            "price": "800.00",
+            "cat_prefix": "women",
+            "img": "https://i.pinimg.com/originals/a6/a4/a1/a6a4a1adf0b4cce477bf7bc9e677f5ea.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Velour top",
+            "price": "300.00",
+            "cat_prefix": "kids",
+            "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Pile all-in-one suit with ears",
+            "price": "500.00",
+            "cat_prefix": "baby",
+            "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Regular Fit football shirt",
+            "price": "449.00",
+            "cat_prefix": "sport",
+            "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Ronaldo T-shirt",
+            "price": "500.00",
+            "cat_prefix": "sport",
+            "img": "https://cyberriedstore.com/wp-content/uploads/2023/07/al-nassr-2023-24-critiano-ronaldo-home-jersey-back-number-7-printed.png"
+        }
+    ]
+}
